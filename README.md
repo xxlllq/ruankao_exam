@@ -1,2 +1,6 @@
-# ruankao_exam
-软考全科目（系统架构设计师、信息系统项目管理师、系统分析师、系统规划与管理师、网络规划设计师）考试资料
+# 软考高级全科目考试全套最新资料
+
+
+<div align="center">
+     <a href="https://fchxxn.com/exam/"><img src="https://raw.githubusercontent.com/xxlllq/ruankao_exam/master/img/list.png" title="点击获取最新全套资料"/></a>
+</div>
