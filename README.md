@@ -1,6 +1,6 @@
 # 软考高级全科目、中级考试全套最新资料
 
-<h3 align="center"><a href="https://fchxxn.com/exam" target="_blank" style="color:#f5803e">点击获取最新全套资料</a> :point_left: </h3>
+<h3 align="center">:point_right:<a href="https://fchxxn.com/exam" target="_blank" style="color:#f5803e">点击获取最新全套资料</a> :point_left: </h3>
 
 | 序号 |             科目            |                                                            简介                                                           |
 |:----:|:---------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|
